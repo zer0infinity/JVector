@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Apr 25 00:07:31 CEST 2010
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=JVector.jar
+manifest.mergeall=true
+manifest.mainclass=ch.hsr.i.jvector.ui.main.JVector
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|JVector>~.svn/;<po|JVector>~JavaCodeAnalyzer.class;<jar|junit.jar>;<jar|org.hamcrest.core_1.1.0.v20090501071000.jar>
+includes=

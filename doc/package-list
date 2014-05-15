@@ -1,0 +1,13 @@
+ch.hsr.i.jvector.components
+ch.hsr.i.jvector.exceptions
+ch.hsr.i.jvector.interfaces
+ch.hsr.i.jvector.logic
+ch.hsr.i.jvector.model
+ch.hsr.i.jvector.test
+ch.hsr.i.jvector.ui.control
+ch.hsr.i.jvector.ui.dialogs
+ch.hsr.i.jvector.ui.main
+ch.hsr.i.jvector.ui.universe
+ch.hsr.i.jvector.ui.universe.behavior
+ch.hsr.i.jvector.ui.util
+ch.hsr.i.jvector.util
